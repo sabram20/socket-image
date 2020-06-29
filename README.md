@@ -1,2 +1,1 @@
-# socket-image
-Retrieving HTTP image
+# Working with importing HTTP image
